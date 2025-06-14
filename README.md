@@ -1,77 +1,87 @@
-#!/bin/bash
+<!-- GitHub Profile README -->
 
-# === Customize Your Details ===
-NAME="Kunal Dev"
-USERNAME="your-github-username"       # change this
-TAGLINE="🚀 Final Year CSE | MERN Stack Enthusiast | GATE Aspirant | Problem Solver"
-EMAIL="your.email@example.com"
-LINKEDIN="https://linkedin.com/in/your-linkedin"
-PORTFOLIO="https://your-portfolio.com"
+<h1 align="center">
+  Hey there! I'm <span style="color:#0078D7;">Kunal Dev</span> 👋
+</h1>
+<h3 align="center">Final Year CSE | MERN Stack Enthusiast | GATE Aspirant | Problem Solver</h3>
 
-# === Create README.md ===
-cat <<EOF > README.md
-<h1 align="center">Hi there 👋, I'm $NAME</h1>
-<h3 align="center">$TAGLINE</h3>
+---
 
 <p align="center">
-  <a href="$LINKEDIN">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
+  <a href="https://github.com/ItsKunalDev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:$EMAIL">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  <a href="https://www.linkedin.com/in/kunal-dev-b837b4252/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="$PORTFOLIO">
-    <img src="https://img.shields.io/badge/Portfolio-000000?logo=github&style=for-the-badge" />
+  <a href="mailto:kunaldev2022@vitbhopal.ac.in" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-🧑‍💻 **About Me:**
-
-- 🎓 Final year B.Tech CSE student at VIT Bhopal  
-- 💡 I love building front-end experiences using the MERN stack  
-- 🧠 Always exploring Data Structures, Algorithms, and competitive programming  
-- 🎯 Currently preparing for GATE 2025  
-- 🌱 Learning TypeScript & System Design  
+### 🔭 **Currently Working On**
+- **College Phone Book App** – Android app to manage college contacts.
+- **Home Automation System (Bluetooth Controlled)** – IoT project using Android & sensors.
+- **GATE 2025 Preparation** – Focused on OS, DSA, DBMS, CN, TOC.
 
 ---
 
-🛠️ **Tech Stack & Tools:**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=flat-square" />
-</p>
+### 🌱 **Currently Learning**
+- Advanced MERN Stack Development  
+- Competitive Programming  
+- Parallel & Distributed Systems  
+- System Design Basics
 
 ---
 
-📈 **GitHub Stats:**
+<img align="right" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350" style="border-radius: 15px;" />
 
+### 💬 **Ask Me About**
+- Front-End Development (HTML/CSS/JS/React)
+- C++, Java, and Python programming
+- Git, GitHub, and Version Control
+- Databases: MySQL and MongoDB
+
+---
+
+<h3 align="center">⚙️ Tech Stack</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=$USERNAME&show_icons=true&theme=tokyonight" alt="stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=$USERNAME&theme=tokyonight" alt="streak" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=$USERNAME&layout=compact&theme=tokyonight" alt="languages" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,cpp,python,git,vscode" />
 </p>
 
 ---
 
-🧠 **Fun Fact:**
-> I'm not a magician, but I can turn *coffee ☕* into *code 💻*.
+<h2 align="center">🏆 GitHub Stats</h2>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ItsKunalDev&show_icons=true&theme=radical&count_private=true" width="500" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsKunalDev&theme=radical" width="500" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ItsKunalDev&layout=compact&theme=radical" width="500" />
+</div>
 
 ---
 
-⭐️ *Thanks for stopping by! Feel free to connect with me.*
+<h2 align="center">📫 Connect With Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/kunal-dev-b837b4252/" target="_blank">🔗 LinkedIn</a> • 
+  <a href="mailto:kunaldev2022@vitbhopal.ac.in">📧 Email</a> • 
+  <a href="https://your-portfolio.com">🌐 Portfolio</a>
+</p>
 
-EOF
+---
 
-echo "🔥 Creative README.md generated successfully!"
+<h2 align="center">📊 Visitor Count</h2>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ItsKunalDev/count.svg" />
+</p>
+
+---
+
+<img src="https://raw.githubusercontent.com/milansamuel609/milansamuel609/output/snake.svg" alt="Snake animation" />
+
+---
+
+⭐️ *Thanks for stopping by! Let’s build something great together.*
